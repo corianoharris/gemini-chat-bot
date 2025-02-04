@@ -1,0 +1,11 @@
+# Dev environment
+pip
+autopep8
+python-dotenv
+logging
+markdown
+# App
+google-generativeai # Client library for the Gemini API
+bleach
+flask
+Pillow # PIL image-loading library
